@@ -1,4 +1,4 @@
-# machine_learning_projects# Machine Learning Projects
+# Machine Learning Projects
 
 This repository contains a collection of machine learning projects implemented in Python.  
 Each project demonstrates data preprocessing, model training, and evaluation using real-world datasets.
