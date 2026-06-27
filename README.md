@@ -8,7 +8,7 @@ Each project demonstrates data preprocessing, model training, and evaluation usi
 ## 📂 Projects
 
 ### 1. Team5 Project
-- **File**: `team5_project.ipynb`
+- **File**: `team5_project.ipynb` or Users vs Bots
 - **Description**: End-to-end ML workflow including data preprocessing, model training, evaluation, and visualization.  
 - **Techniques Used**: Classification models, evaluation metrics, feature analysis.  
 - **Highlights**:
